@@ -1,2 +1,2 @@
 # Simon_Game
-This is Simon Game Project
+This is Simon Game Project.
